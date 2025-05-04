@@ -10,3 +10,5 @@
 fezver/fezver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=2000&color=FFFFFF&width=435&lines=Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
