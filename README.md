@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://tenor.com/fQ1cClhJeM6.gif" width="180"><br>
+
+ ![honkai-star-rail-silver-wolf](https://github.com/user-attachments/assets/5e6f9668-8f7c-4d11-93e9-0117aa4d08c8) 
+  
   <span style="color:#8000FF;">fezver</span>
 </h1>
 
