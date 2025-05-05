@@ -1,47 +1,41 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=435&lines=Fezver;Location%3A+Unknown;Occupation%3A+Hacker;System+Access%3A+Level+7;Initializing+Neon+Uplink..." alt="Typing SVG" />
+</p>
+
 <h1 align="center">
-  <img src=https://tenor.com/fQ1cClhJeM6.gif width="150"><br>
-  <span style="color:#00ffc3;">Fezver</span> | Cyberpunk Engineer
+  <img src="https://media.tenor.com/BVMDZWyJk7AAAAAC/sakuemon-pixel-art.gif" width="120"><br>
+  <span style="color:#00ffc3;">Fezver</span>
 </h1>
 
 ---
 
-**"I don't code in silence. I code with neon lights, humming circuits, and a ghost in the shell."**
+> **"They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."**
 
 ---
 
-## ⚡️ SYSTEM STATUS
+##  SYSTEM LOG
 
-- **Faction**: Independent Node
-- **Location**: NEON ZONE // Sector-07
-- **Role**: Code Architect | World Builder | Digital Phantom
-- **Current Mission**: Building the Hyper Serant Wiki & Terminal
-
----
-
-## 🧠 SKILL MODULES
-
-- `Next.js`  — Tactical Frontend Deployment  
-- `Firebase` — Realtime Intel Relay  
-- `TailwindCSS` — Style Optimization Subsystem  
-- `Supabase` — Open Source Memory Core  
-- `Figma/Pixel Art` — Visual Protocol Interface
+- **Location**: ??? [ENCRYPTED]
+- **Role**: Hacker, Data Whisperer
+- **Status**: Online (Proxy Active)
+- **Target**: Core Node: Hyper Serant
 
 ---
 
-## 🔐 ACCESS POINTS
+##  TOOLS OF THE TRADE
 
-[![GitHub](https://img.shields.io/badge/GitHub-Fezver-00ffc3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Fezver)  
-[![NeonMail](https://img.shields.io/badge/Contact-fezver%40cybermail.zone-ff00ff?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
----
-
-## 🧭 LORE IN PROGRESS...
-
-> The world of **Hyper Serant** is expanding.  
-> Data fragments loading: `██████░░░░░░ 60%`  
-> Join the uplink—**lore, techfiles, and classified logs** coming soon.
+- `Python` — Script Injection  
+- `Next.js` — Interface Hijack  
+- `Firebase` — Realtime Tracking  
+- `Supabase` — Black Vault Archives  
+- `Linux` — Bare Metal Control
 
 ---
 
-> *"Keep your systems clean, your ports open, and your enemies firewalled."*  
-> — Fezver.exe
+##  CONTACT
+
+[![GitHub](https://img.shields.io/badge/GitHub-Fezver-00ffc3?style=for-the-badge&logo=github)](https://github.com/Fezver)
+
+---
+
+> *"Fezver isn't a name. It's a signal."*
