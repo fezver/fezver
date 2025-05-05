@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://tenor.com/fQ1cClhJeM6.gif" width="150"><br>
+  <img src=https://tenor.com/fQ1cClhJeM6.gif width="150"><br>
   <span style="color:#00ffc3;">Fezver</span> | Cyberpunk Engineer
 </h1>
 
 ---
 
-> **"I don't code in silence. I code with neon lights, humming circuits, and a ghost in the shell."**
+**"I don't code in silence. I code with neon lights, humming circuits, and a ghost in the shell."**
 
 ---
 
