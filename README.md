@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <gif src="https://tenor.com/fQ1cClhJeM6.gif" width="120"><br>
-  <span style="color:#00ffc3;">Fezver</span>
+  <span style="color:#00ffc0;">fezver</span>
 </h1>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-##  SYSTEM LOG
+  **SYSTEM LOG**
 
 - **Location**: ??? [ENCRYPTED]
 - **Role**: White Hacker, Editor, Data Whisperer
@@ -22,7 +22,7 @@
 
 ---
 
-##  TOOLS OF THE TRADE
+  **TOOLS OF THE TRADE**
 
 - `Python` — Script Injection  
 - `Next.js` — Interface Hijack  
@@ -32,9 +32,9 @@
 
 ---
 
-##  CONTACT
+  **CONTACT**
 
-[![GitHub](https://img.shields.io/badge/GitHub-fezver-00ffc3?style=for-the-badge&logo=github)](https://github.com/fezver)
+[![GitHub](https://img.shields.io/badge/GitHub-fezver-00ffc0?style=for-the-badge&logo=github)](https://github.com/fezver)
 
 ---
 
