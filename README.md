@@ -45,12 +45,12 @@
 ---
 
 <details>
-<summary><strong><span style="color:#8000FF;"> DECRYPTING FEZVER'S ORIGIN...</span></strong></summary>
+<summary><strong><span style="color:#8000FF;"> Fezver...</span></strong></summary>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=400&size=22&pause=5000&color=8000FF&center=true&vCenter=true&width=850&lines=Fezver+is+a+rookie+coder+who+started+his+career+on+GitHub...;...on+a+mission+to+hunt+worthy+targets+in+the+cyber+realm.;He+exists+between+nodes+and+neon%2C+never+static.;Fezver+is+not+just+a+name%2C+it's+a+signal+transmission." alt="Typing SVG long description" />
+ You re pranked
 </p>
 
 </details>
