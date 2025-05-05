@@ -9,16 +9,16 @@
 
 ---
 
-> **"They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."**
+ **"They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."**
 
 ---
 
 ##  SYSTEM LOG
 
 - **Location**: ??? [ENCRYPTED]
-- **Role**: Hacker, Data Whisperer
+- **Role**: White Hacker, Editor, Data Whisperer
 - **Status**: Online (Proxy Active)
-- **Target**: Core Node: Hyper Serant
+- **Target**: Core Node: Hyper013
 
 ---
 
@@ -34,8 +34,8 @@
 
 ##  CONTACT
 
-[![GitHub](https://img.shields.io/badge/GitHub-Fezver-00ffc3?style=for-the-badge&logo=github)](https://github.com/Fezver)
+[![GitHub](https://img.shields.io/badge/GitHub-fezver-00ffc3?style=for-the-badge&logo=github)](https://github.com/fezver)
 
 ---
 
-> *"Fezver isn't a name. It's a signal."*
+*"Fezver isn't a name. It's a signal."*
