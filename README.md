@@ -50,7 +50,7 @@
 <br>
 
 <p align="left">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=400&size=22&pause=5000&color=8000FF&center=true&vCenter=true&width=850&lines=fezver+is+a+rookie+not+newbie+coder+who+started+his+career+on+GitHub...;...on+a+mission+to+hunt+worthy+targets+in+the+cyber+realm.;He+exists+between+nodes+and+neon%2C+never+static.;fezver+is+not+just+a+name%2C+it's+a+signal+transmission bruh." alt="Typing SVG long description" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=400&size=22&pause=5000&color=8000FF&center=true&vCenter=true&width=850&lines=fezver+is+a+rookie+not+newbie+coder+who+started+his+career+on+GitHub...;...on+a+mission+to+hunt+worthy+targets+in+the+cyber+realm.;He+exists+between+nodes+and+neon%2C+never+static.;fezver+is+not+just+a+name%2C+it's+a+signal+transmission bruh." alt="Typing SVG long description" alt="Typing SVG" />
 
 </p>
 
