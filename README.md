@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=435&lines=Fezver;Location%3A+Unknown;Occupation%3A+Hacker;System+Access%3A+Level+7;Initializing+Neon+Uplink..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=435&lines=Fezver;Location%3A+Unknown;Occupation%3A+Hacker;System+Access%3A+Level+007;Initializing+Next+Uplink..." alt="Typing SVG" />
 </p>
 
 <h1 align="center">
-  <img src="https://tenor.com/fQ1cClhJeM6.gif" width="120"><br>
+  <gif src="https://tenor.com/fQ1cClhJeM6.gif" width="120"><br>
   <span style="color:#00ffc3;">Fezver</span>
 </h1>
 
