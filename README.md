@@ -57,4 +57,3 @@
 
 ---
 
- *"Fezver isn't a name. It's a signal."*
