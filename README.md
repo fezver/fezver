@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8000FF&center=true&vCenter=true&width=700&lines=Fezver+Initializing...;Location%3A+Unknown+Network+Sector;Occupation%3A+White+Hacker+%2F+Digital+Shadowrunner;System+Access+Granted%3A+Level+007;Searching+for+equivalent+targets...;Launching+data+extraction+sequence...;Link+established+%5BOK%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=8000FF&center=true&vCenter=true&width=700&lines=Fezver+Initializing...;Location%3A+Unknown+Network+Sector;Occupation%3A+White+Hacker+%2F+Digital+Shadowrunner;System+Access+Granted%3A+Level+007;Searching+for+equivalent+targets...;Launching+data+extraction+sequence...;Link+established+%5BOK%5D" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=400&size=20&pause=5000&color=8000FF&center=true&vCenter=true&width=750&lines=Fezver+is+a+rookie+coder+who+started+his+career+on+GitHub...;...on+a+mission+to+hunt+worthy+targets+in+the+cyber+realm.;He+exists+between+nodes+and+neon%2C+never+static.;Fezver+is+not+just+a+name%2C+it's+a+signal+transmission." alt="Typing SVG long description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=400&size=25&pause=5000&color=8000FF&center=true&vCenter=true&width=750&lines=Fezver+is+a+rookie+coder+who+started+his+career+on+GitHub...;...on+a+mission+to+hunt+worthy+targets+in+the+cyber+realm.;He+exists+between+nodes+and+neon%2C+never+static.;Fezver+is+not+just+a+name%2C+it's+a+signal+transmission." alt="Typing SVG long description" />
 </p>
 
 </details>
