@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.tenor.com/BVMDZWyJk7AAAAAC/sakuemon-pixel-art.gif" width="120"><br>
+  <img src="https://tenor.com/fQ1cClhJeM6.gif" width="120"><br>
   <span style="color:#00ffc3;">Fezver</span>
 </h1>
 
