@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=435&lines=Fezver;Location%3A+Unknown;Occupation%3A+Hacker;System+Access%3A+Level+007;Initializing+Next+Uplink..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=435&lines=Fezver;Location%3A+Unknown;Occupation%3A+White+Hacker;System+Access%3A+Level+007;Initializing+Next+Uplink..." alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 
 ---
 
- **"They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."**
+ *"They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."*
 
 ---
 
@@ -28,7 +28,7 @@
 - `Next.js` — Interface Hijack  
 - `Firebase` — Realtime Tracking  
 - `Supabase` — Black Vault Archives  
-- `Linux` — Bare Metal Control
+- `Linux` — Control
 
 ---
 
