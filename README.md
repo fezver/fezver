@@ -15,7 +15,7 @@
 
 
 
- *“They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."*
+ *“I live in the shadows of the network, rewriting fate in binary."*
 
 ---
 
@@ -49,8 +49,6 @@
 
 <br>
 
-<p align="left">
- Hi iam fezver, the codemaker />
 </p>
 
 </details>
