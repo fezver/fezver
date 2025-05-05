@@ -1,10 +1,9 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=8000FF&center=true&vCenter=true&width=700&lines=Fezver+Initializing...;Location%3A+Unknown+Network+Sector;Occupation%3A+White+Hacker+%2F+Digital+Shadowrunner;System+Access+Granted%3A+Level+007;Searching+for+equivalent+targets...;Launching+data+extraction+sequence...;Link+established+%5BOK%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8000FF&center=true&vCenter=true&width=900&lines=Fezver+Initializing...;Location%3A+Unknown+Network+Sector;Occupation%3A+White+Hacker+%2F+Digital+Shadowrunner;System+Access+Granted%3A+Level+007;Hunting+worthy+targets+in+the+cyber+depths...;Data+extraction+mode%3A+ACTIVE;Uplink+Complete+%5BOK%5D" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
-  <img src="https://media.tenor.com/BVMDZWyJk7AAAAAC/sakuemon-pixel-art.gif" width="120"><br>
+  <img src="https://tenor.com/fQ1cClhJeM6.gif" width="180"><br>
   <span style="color:#8000FF;">fezver</span>
 </h1>
 
@@ -12,7 +11,8 @@
 
 
 
- *"They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."*
+
+ **"They can't trace what doesn't exist. I live in the shadows of the network, rewriting fate in binary."**
 
 ---
 
@@ -42,18 +42,16 @@
 ---
 
 <details>
-<summary><strong><span style="color:#8000FF;">▶️ DECRYPTING FEZVER'S ORIGIN...</span></strong></summary>
+<summary><strong><span style="color:#8000FF;"> DECRYPTING FEZVER'S ORIGIN...</span></strong></summary>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=400&size=25&pause=5000&color=8000FF&center=true&vCenter=true&width=750&lines=Fezver+is+a+rookie+coder+who+started+his+career+on+GitHub...;...on+a+mission+to+hunt+worthy+targets+in+the+cyber+realm.;He+exists+between+nodes+and+neon%2C+never+static.;Fezver+is+not+just+a+name%2C+it's+a+signal+transmission." alt="Typing SVG long description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=400&size=22&pause=5000&color=8000FF&center=true&vCenter=true&width=850&lines=Fezver+is+a+rookie+coder+who+started+his+career+on+GitHub...;...on+a+mission+to+hunt+worthy+targets+in+the+cyber+realm.;He+exists+between+nodes+and+neon%2C+never+static.;Fezver+is+not+just+a+name%2C+it's+a+signal+transmission." alt="Typing SVG long description" />
 </p>
 
 </details>
 
 ---
 
-*"Fezver isn't a name. It's a signal."*
-
-
+ *"Fezver isn't a name. It's a signal."*
