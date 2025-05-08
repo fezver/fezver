@@ -11,9 +11,6 @@
 
 
 
-
----
-
  **SYSTEM LOG**
 
 - **Location**: `[ENCRYPTED]`  
