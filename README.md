@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8000FF&center=true&vCenter=true&width=900&lines=fezver+Initializing...;Location%3A+Unknown+Network+Sector;Occupation%3A+Digital+Shadowrunner;System+Access+Granted%3A+Level+007;Hunting+worthy+targets+in+the+cyber+depths...;Data+extraction+mode%3A+ACTIVE;Uplink+Complete+%5BOK%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8000FF&center=true&vCenter=true&width=900&lines=fezver+Initializing...;Location%3A+Unknown+Network+Sector;Occupation%3A+Digital+Shadowrunner;System+Access+Granted%3A+Level+7;Hunting+worthy+targets+in+the+cyber+depths...;Data+extraction+mode%3A+ACTIVE;Uplink+Complete+%5BOK%5D" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -11,11 +11,6 @@
 
 
 
-
-
-
-
- *“I live in the shadows of the network, rewriting fate in binary."*
 
 ---
 
