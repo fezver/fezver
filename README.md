@@ -34,5 +34,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-fezver-8000FF?style=for-the-badge&logo=github)](https://github.com/fezver)
 
-[![Email](https://img.shields.io/badge/GitHub-fezver-8000FF?style=for-the-badge&logo=email)](mailto:ferytakiya41@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fezver-8000FF?style=for-the-badge&logo=email)](mailto:ferytakiya41@gmail.com)
 
