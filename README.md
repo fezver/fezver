@@ -36,13 +36,3 @@
 
 ---
 
-<details>
-<summary><strong><span style="color:#8000FF;"> fezver...</span></strong></summary>
-
-<br>
-
-</p>
-
-</details>
-
-
